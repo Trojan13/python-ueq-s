@@ -10,15 +10,6 @@ All credits for this analysis goes to the authors from the UEQ-Team:
 Andreas Hinderks, Martin Schrepp, Jörg Thomaschewski
 
 For more information visit: https://www.ueq-online.org/
-## Results
-
-The UEQ-S scores were calculated based on the responses to the survey. The scores were divided into the following categories:
-
-- **Pragmatic Quality:** 0.903846
-- **Hedonic Quality:** 0.519231
-- **Overall Experience:** 0.711538
-
-These values can be interpreted based on the UEQ's standard scoring system, with the scores ranging from -0.8 to 0.8, where negative values indicate negative feedback and positive values indicate positive feedback.
 
 ## Graphic Representation
 
